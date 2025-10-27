@@ -3,4 +3,47 @@ body {
 background-color: rgb(8, 198, 231);
 color:rgb(233, 239, 243);
 font-family: "EB Garamond", serif;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 300px; 
+margin: 0;
 }
+
+button{
+   background-color: rgb(235, 238, 240);
+   color: rgba(0, 90, 192, 0.493);
+   font-family: "EB Garamond", serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
