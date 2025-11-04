@@ -16,7 +16,13 @@ button{
    font-family: "EB Garamond", serif;
 }
 
+.passo {
+   display: none;
+}
 
+.passo.ativo {
+   display:block;
+}
 
 
 
